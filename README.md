@@ -10,9 +10,9 @@
 
 - 🔭 I’m looking  for my first position as a junior software developer.
 
-- 📫 How to reach me **karinoch070@gmail.com**.
+- 📫 How to reach me - **karinoch070@gmail.com**.
 
-- ⚡ Fun fact **I quote sentences from "friends" and I'm addicted to coffee!**
+- ⚡ Fun fact - **I quote sentences from "friends" and I'm addicted to coffee!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
