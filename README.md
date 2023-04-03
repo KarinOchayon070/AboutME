@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karin Ochayon</h1>
+<h1 align="center">Hi there! I'm Karin Ochayon👋</h1>
 <h3 align="center">A passionate developer from Isreal</h3>
 
 - 🔭 I’m currently a third year computer science student at HIT [https://www.hit.ac.il/sciences/Computer-Science](https://www.hit.ac.il/sciences/Computer-Science)
