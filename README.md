@@ -21,7 +21,16 @@
 
 <div id="tools">
   <h2> Languages and Tools:</h2>
-      javascript react nodejs express mongodb css3 html5 bootstrap git postman mysql php postgresql python c cplusplus
+      - C
+      - C++
+      - Java
+      - JavaScript
+      - MongoDB
+      - MySQL
+      - Node.js
+      - React
+      - Html
+      - Css
   I'm always looking to improve my skills and learn new things, so if there's a technology you think I should check out, let me know!
   </div>
 
