@@ -1,43 +1,19 @@
-<div id="header" align="center">
-<h1> Hi there! I'm Karin Ochayon 👋 </h1>
-</div>
+<h1 align="center">Hi 👋, I'm Karin Ochayon</h1>
+<h3 align="center">A passionate developer from Isreal</h3>
 
-<div id="content">
-<h2> About Me </h2>
+- 🔭 I’m currently a third year computer science student at HIT [https://www.hit.ac.il/sciences/Computer-Science](https://www.hit.ac.il/sciences/Computer-Science)
 
-  👩‍🎓 I'm currently a third year computer science student at HIT.
+- 🌱 I’m currently learning **Node js, MongoDB and react.**
 
-  🙋‍♀️ I’m currently working on independent projects.
+- 📫 How to reach me **karinoch070@gmail.com**
 
-  🌼 I’m currently learning Node js, MongoDB and react.
+- ⚡ Fun fact **I quote sentences from "friends" and I'm addicted to coffee!**
 
-  🥳  I know how to work hard, I am diligent and love to learn! I also really like coffee, but we'll talk about that later :)
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/karin-ochayon-873785201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karin-ochayon-873785201/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucb9ky-ecamy0yonjmgcuu2q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucb9ky-ecamy0yonjmgcuu2q" height="30" width="40" /></a>
+</p>
 
-
-<div id="contact" >
-<h2> Contact Me</h2>
-  If you'd like to reach out to me, feel free to send me an email at karinoch070@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/karin-ochayon-873785201/.
-</div>
-
-
-<div id="tools">
-  <h2> Languages and Tools:</h2>
-      ✔️ C 
-      ✔️ C++ 
-      ✔️ Python
-      ✔️ Java
-      ✔️ JavaScript
-      ✔️ MongoDB
-      ✔️ MySQL
-      ✔️ Node.js
-      ✔️ React
-      ✔️ Html
-      ✔️ Css
-  I'm always looking to improve my skills and learn new things, so if there's a technology you think I should check out, let me know!
- </div>
-  
- 
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
