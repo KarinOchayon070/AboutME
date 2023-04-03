@@ -9,7 +9,7 @@
 
   🙋‍♀️ I’m currently working on independent projects.
 
-  🌼 I’m currently learning Node js, react.
+  🌼 I’m currently learning Node js, MongoDB and react.
 
   🥳  I know how to work hard, I am diligent and love to learn! I also really like coffee, but we'll talk about that later :)
 </div>
@@ -23,16 +23,17 @@
 
 <div id="tools">
   <h2> Languages and Tools:</h2>
-      - C 
-      - C++ 
-      - Java
-      - JavaScript
-      - MongoDB
-      - MySQL
-      - Node.js
-      - React
-      - Html
-      - Css
+      ✔️ C 
+      ✔️ C++ 
+      ✔️ Python
+      ✔️ Java
+      ✔️ JavaScript
+      ✔️ MongoDB
+      ✔️ MySQL
+      ✔️ Node.js
+      ✔️ React
+      ✔️ Html
+      ✔️ Css
   I'm always looking to improve my skills and learn new things, so if there's a technology you think I should check out, let me know!
  </div>
   
