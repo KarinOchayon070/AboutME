@@ -23,18 +23,18 @@
 
 <div id="tools">
   <h2> Languages and Tools:</h2>
-  </div>
-      - C <br>
-      - C++ <br>
-      - Java<br>
-      - JavaScript<br>
-      - MongoDB<br>
-      - MySQL<br>
-      - Node.js<br>
-      - React<br>
-      - Html<br>
-      - Css<br>
+      - C 
+      - C++ 
+      - Java
+      - JavaScript
+      - MongoDB
+      - MySQL
+      - Node.js
+      - React
+      - Html
+      - Css
   I'm always looking to improve my skills and learn new things, so if there's a technology you think I should check out, let me know!
+ </div>
   
  
 
