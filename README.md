@@ -4,8 +4,9 @@
 
 <div id="content">
 <h2> About Me </h2>
+
   👩‍🎓 I'm currently a third year computer science student at HIT.
-    
+
   🙋‍♀️ I’m currently working on independent projects.
 
   🌼 I’m currently learning Node js, react.
