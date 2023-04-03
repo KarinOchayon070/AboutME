@@ -1,13 +1,15 @@
 <h1 align="center">Hi there! I'm Karin Ochayon👋</h1>
-<h3 align="center">A passionate developer from Isreal</h3>
+<h3 align="center">A passionate developer 💫</h3>
 
-- 👩‍🎓 I’m currently a third year computer science student at HIT [https://www.hit.ac.il/sciences/Computer-Science](https://www.hit.ac.il/sciences/Computer-Science)
+<div align="center"> <img src="https://user-images.githubusercontent.com/92684210/229502829-6e127ad7-3cae-445e-aa6d-d12218d546b3.png"> </div>
+
+- 👩‍🎓 I’m currently a third year computer science student at "HIT" [https://www.hit.ac.il/sciences/Computer-Science](https://www.hit.ac.il/sciences/Computer-Science)
 
 - 🌱 I’m currently learning **Node js, MongoDB and react.**
 
 - 🔭 I’m looking  for my first position as a junior software developer.
 
-- 📫 How to reach me **karinoch070@gmail.com**
+- 📫 How to reach me **karinoch070@gmail.com**.
 
 - ⚡ Fun fact **I quote sentences from "friends" and I'm addicted to coffee!**
 
