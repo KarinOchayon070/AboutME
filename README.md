@@ -1,5 +1,4 @@
- Hi there! I'm Karin Ochayon👋
-
+<h1> Hi there! I'm Karin Ochayon 👋 </h1>
 
   👩‍🎓 I'm currently a third year computer science student at HIT.
     
