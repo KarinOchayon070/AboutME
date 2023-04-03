@@ -21,7 +21,7 @@
 
 <div id="tools">
   <h2> Languages and Tools:</h2>
-      - C
+      - C <br>
       - C++
       - Java
       - JavaScript
