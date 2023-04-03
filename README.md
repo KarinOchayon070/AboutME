@@ -1,7 +1,8 @@
 <h1 align="center">Hi there! I'm Karin Ochayon👋</h1>
 <h3 align="center">A passionate developer 💫</h3>
 
-<div align="center"> <img src="https://user-images.githubusercontent.com/92684210/229502829-6e127ad7-3cae-445e-aa6d-d12218d546b3.png"> </div>
+
+<div align="center" > <img width="400" src="https://user-images.githubusercontent.com/92684210/229506236-edd9d8d1-4159-4c1d-838d-3e5f5c37efce.gif"> </div>
 
 - 👩‍🎓 I’m currently a third year computer science student at "HIT" [https://www.hit.ac.il/sciences/Computer-Science](https://www.hit.ac.il/sciences/Computer-Science)
 
