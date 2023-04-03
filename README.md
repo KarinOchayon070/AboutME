@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1> Hi there! I'm Karin Ochayon 👋 </h1>
-  </div>
+</div>
 
   👩‍🎓 I'm currently a third year computer science student at HIT.
     
