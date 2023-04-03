@@ -21,9 +21,9 @@
 </div>
 
 
-<div id="tools" >
+<div id="tools">
   <h2> Languages and Tools:</h2>
- 
+  </div>
       - C <br>
       - C++ <br>
       - Java<br>
@@ -35,7 +35,7 @@
       - Html<br>
       - Css<br>
   I'm always looking to improve my skills and learn new things, so if there's a technology you think I should check out, let me know!
-  </div>
+  
  
 
 
