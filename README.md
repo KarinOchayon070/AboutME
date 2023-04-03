@@ -2,7 +2,7 @@
 <h1> Hi there! I'm Karin Ochayon 👋 </h1>
 </div>
 
-<div id="content"  align="center">
+<div id="content">
 <h2> About Me </h2>
 
   👩‍🎓 I'm currently a third year computer science student at HIT.
@@ -15,13 +15,13 @@
   </div>
 
 
-<div id="contact" align="center">
+<div id="contact" >
 <h2> Contact Me</h2>
   If you'd like to reach out to me, feel free to send me an email at karinoch070@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/karin-ochayon-873785201/.
 </div>
 
 
-<div id="tools" align="center">
+<div id="tools" >
   <h2> Languages and Tools:</h2>
  
       - C <br>
