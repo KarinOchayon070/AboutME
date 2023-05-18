@@ -6,9 +6,9 @@
 
 - 👩‍🎓 I’m currently a third year computer science student at "HIT" [https://www.hit.ac.il/sciences/Computer-Science](https://www.hit.ac.il/sciences/Computer-Science)
 
-- 🌱 I’m currently learning **Node js, MongoDB and react.**
+- 🌱 I’m currently learning **Node js, MongoDB and design patterns.**
 
-- 🔭 I’m looking  for my first position as a junior software developer.
+- 🔭 I’m looking  for my first position as a junior software developer or as a junior algorithm developer.
 
 - 📫 How to reach me - **karinoch070@gmail.com**.
 
