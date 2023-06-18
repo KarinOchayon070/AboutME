@@ -6,7 +6,7 @@
 
 - 👩‍🎓 I’m currently a third year computer science student at "HIT" [https://www.hit.ac.il/sciences/Computer-Science](https://www.hit.ac.il/sciences/Computer-Science)
 
-- 🌱 I’m currently learning **Node js, MongoDB and design patterns.**
+- 🌱 I'm currently enrolled in "The Complete 2023 Web Development Bootcamp" on Udemy to further enhance my web development skills.
 
 - 🔭 I’m looking  for my first position as a junior software developer or as a junior algorithm developer.
 
