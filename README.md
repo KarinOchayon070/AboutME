@@ -4,7 +4,7 @@
 
 <div align="center" > <img width="400" src="https://user-images.githubusercontent.com/92684210/229506236-edd9d8d1-4159-4c1d-838d-3e5f5c37efce.gif"> </div>
 
-- 👩‍🎓 I’m currently a third year computer science student at "HIT" [https://www.hit.ac.il/sciences/Computer-Science](https://www.hit.ac.il/sciences/Computer-Science)
+- 🎓 I recently graduated with a Bachelor's degree in Computer Science from "HIT" (Holon Institute of Technology), with an average grade of 86.
 
 - 🌱 I'm currently enrolled in "The Complete 2023 Web Development Bootcamp" on Udemy to further enhance my web development skills.
 
