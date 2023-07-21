@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Karin Ochayon👋</h1>
+<h1 align="center">Hi there! I'm Karin 👋</h1>
 <h3 align="center">A passionate developer 💫</h3>
 
 
