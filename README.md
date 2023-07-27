@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently enrolled in "The Complete 2023 Web Development Bootcamp" on Udemy to further enhance my web development skills.
 
-- 🔭 I’m looking  for my first position as a junior software developer or as a junior algorithm developer.
+- 🔭 I’m looking  for my first position as a junior software developer.
 
 - 📫 How to reach me - **karinoch070@gmail.com**.
 
