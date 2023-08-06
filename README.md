@@ -6,7 +6,7 @@
 
 - 🎓 I recently graduated with a Bachelor's degree in Computer Science from "HIT" (Holon Institute of Technology), with an average grade of 86.
 
-- 🌱 I'm currently enrolled in "The Complete 2023 Web Development Bootcamp" on Udemy to further enhance my web development skills.
+- 🌱 I recently completed "The Complete 2023 Web Development Bootcamp" on Udemy, which has significantly enhanced my web development skills.
 
 - 🔭 I’m looking  for my first position as a junior software developer.
 
