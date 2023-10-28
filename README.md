@@ -6,9 +6,9 @@
 
 - 🎓 I'm a recent graduate with a Bachelor's degree in Computer Science from "HIT" (Holon Institute of Technology), where I achieved an average grade of 86.
 
-- 🌱 I recently completed "The Complete 2023 Web Development Bootcamp" on Udemy, which has significantly enhanced my web development skills.
+- 🌱 I completed "The Complete 2023 Web Development Bootcamp" on Udemy, which has significantly enhanced my web development skills.
 
-- 🔭 I’m looking  for my first position as a junior software developer.
+- 👩🏻‍💻 I’m a full stack developer at "Moveo".
 
 - 📫 How to reach me - **karinoch070@gmail.com**.
 
